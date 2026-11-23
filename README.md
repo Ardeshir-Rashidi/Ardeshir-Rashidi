@@ -6,6 +6,12 @@ Based in **Stockholm, Sweden** · Studying **Game and Interactive Media Design a
 
 [LinkedIn](https://www.linkedin.com/in/ardeshir-rashidi/) · [All repositories](https://github.com/Ardeshir-Rashidi?tab=repositories)
 
+**Design & Development Profile**
+
+![Skill self-assessment out of 10](assets/skill-profile.svg)
+
+<sub>Self-assessed scores · [View the ratings](assets/skill-profile.json)</sub>
+
 ## Game Design & Development
 
 Game systems, research, design documentation, player interfaces, and playable prototypes. Depending on the project, the output may be design files, an Unreal Engine project, or a browser-based experience.
@@ -58,6 +64,16 @@ My product design experience spans fintech, gaming services, creator tools, ente
   <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"></a>
   <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"></a>
 </p>
+
+**GitHub Activity**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg">
+  <img alt="Snake animation generated from my GitHub contribution activity" src="assets/github-snake.svg" width="100%">
+</picture>
+
+<sub>Generated from my GitHub contribution activity · Updated daily.</sub>
 
 <sub>Each project has its own repository, category topics, and documentation describing its purpose, my role, deliverables, and setup.</sub>
 
