@@ -1,15 +1,45 @@
 # Portfolio repository conventions
 
-These conventions organize Ardeshir Rashidi's GitHub portfolio around interactive product prototypes and game systems. They are intended for new projects; existing repository URLs can stay stable.
+These conventions organize Ardeshir Rashidi's GitHub portfolio into two main areas: **Game Design & Development** and **Product Design**. A project's subject determines its area; its technology and output format are described separately.
 
 ## Categories and topics
 
-| Category | Required category topic | Supporting topics when applicable |
+| Main area | Required area topic | Focus topics when applicable |
 | --- | --- | --- |
-| Interactive product prototypes | `product-prototype` | `product-design`, `ui-design`, `interactive-prototype`, `design-system`, `html-css-javascript`, `react`, `nextjs` |
-| Game systems and experiments | `game-systems` | `game-development`, `unreal-engine-5`, `niagara-system`, `simulation`, `procedural-generation`, `hlsl`, `cpp` |
+| Game Design & Development | `game-design` | `game-systems`, `game-research`, `game-design-documentation`, `game-ui-ux`, `game-prototype`, `simulation` |
+| Product Design | `product-design` | `ux-design`, `ui-design`, `design-system`, `product-prototype`, `landing-page`, `dashboard`, `mobile-app` |
 
-Add technologies only when the repository actually uses them. Use one main category topic and a small set of specific topics. The profile's category links search for these topics, so newly tagged public repositories appear in the appropriate collection.
+Choose one primary area based on the project's purpose and add the focus topics that describe the actual work. The profile's two collection links search by `game-design` and `product-design`.
+
+### Game Design & Development
+
+- **Gameplay Systems & Simulation:** mechanics, procedural systems, technical systems, and real-time simulations.
+- **Game Research & Design Documentation:** research, mechanic studies, game design documents, specifications, balancing notes, and playtest findings.
+- **Game UI/UX:** HUDs, menus, player feedback, player journeys, and interface design files.
+- **Playable Prototypes:** playable tests and interactive demonstrations.
+
+Outputs can include source design files, documents, Unreal Engine projects, or web builds. A browser-based game prototype belongs to this area because its subject is game design.
+
+### Product Design
+
+- **UX & Interaction Design:** research, information architecture, journeys, flows, wireframes, and usability studies.
+- **UI & Design Systems:** visual interfaces, components, responsive layouts, and design-system files.
+- **Interactive Product Prototypes:** landing pages, dashboards, and mobile application flows implemented as interactive front-end prototypes.
+
+Next.js, React, TypeScript, HTML, CSS, and JavaScript describe implementation tools. A mobile UI demonstrated in a browser remains a mobile product prototype; it should not be described as a native application unless it actually is one.
+
+### Technology and output topics
+
+Add technologies only when the repository uses them, for example `unreal-engine-5`, `niagara-system`, `hlsl`, `cpp`, `nextjs`, `react`, or `typescript`. Describe the output explicitly in the README: design files, research/documentation, Unreal project, web prototype, or native build.
+
+Examples:
+
+| Project | Area topic | Focus topics | Technology topics |
+| --- | --- | --- | --- |
+| Niagara Ocean Simulation | `game-design` | `game-systems`, `simulation` | `unreal-engine-5`, `niagara-system`, `hlsl` |
+| Game HUD design and prototype | `game-design` | `game-ui-ux`, `game-prototype` | Only the tools used by that project |
+| Player research study | `game-design` | `game-research`, `game-design-documentation` | No engine topic unless an engine project is included |
+| Product dashboard prototype | `product-design` | `dashboard`, `product-prototype` | `nextjs`, `react`, `typescript` when used |
 
 ## Repository names
 
@@ -17,6 +47,8 @@ Use short, descriptive, lowercase names with hyphens for new repositories.
 
 - Product prototype: `<product>-prototype`, for example `zerolag-prototype`.
 - Game system: `ue5-<system>`, for example `ue5-ocean-simulation`.
+- Game research or documentation: `<subject>-game-research` or `<project>-game-design`.
+- Game interface: `<project>-game-ui`.
 - Reusable interface library: `<name>-design-system`.
 
 Examples describe a naming pattern, not repositories that have already been published. A single prototype should have one repository; avoid creating separate repositories just to represent empty portfolio categories.
@@ -63,6 +95,8 @@ README.md
 Document the tested engine version and required plugins. Do not commit `Binaries/`, `DerivedDataCache/`, `Intermediate/`, or `Saved/`. Use Git LFS for large binary Unreal assets when needed, with a reviewed `.gitattributes` configuration before the first asset commit.
 
 ## README checklist
+
+Start with the [Game project template](../templates/GAME_PROJECT_README.md) or [Product design template](../templates/PRODUCT_DESIGN_README.md). The existing system and prototype templates are available for more specific technical projects.
 
 1. State what the project is and why it exists.
 2. Show the result with a preview or screenshot.
