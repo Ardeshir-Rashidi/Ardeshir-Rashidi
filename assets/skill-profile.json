@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-23",
+  "scale": 10,
+  "assessment": "self-assessed",
+  "axes": [
+    { "label": "3D Modeling", "score": 9 },
+    { "label": "Animation", "score": 5 },
+    { "label": "UI/UX Design", "score": 9 },
+    { "label": "Design Systems", "score": 8 },
+    { "label": "Product Design", "score": 6 },
+    { "label": "Game Design", "score": 5 },
+    { "label": "Technical Design & Game Systems", "score": 6 }
+  ]
+}
