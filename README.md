@@ -56,6 +56,9 @@ UX/UI design and interactive prototypes for **landing pages, dashboards, and mob
 
 My product design experience spans fintech, gaming services, creator tools, enterprise AI, and smart-home products. New public prototypes will be added here as they are ready to share.
 
+**Featured project — [ZeroLag Landing](https://github.com/Ardeshir-Rashidi/zerolag-landing)**  
+Interactive marketing website and landing-page prototype built with **Next.js, React, TypeScript and CSS Modules**. Includes game/app discovery, locations, pricing and download journeys. The dashboard and mobile app are separate projects.
+
 [Browse product design projects →](https://github.com/search?q=owner%3AArdeshir-Rashidi+topic%3Aproduct-design&type=repositories)
 
 **Tools & Workflow**
