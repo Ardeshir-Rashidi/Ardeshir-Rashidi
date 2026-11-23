@@ -1,46 +1,64 @@
-# Ardeshir Rashidi
+![Ardeshir Rashidi — Product Design and Game Design & Development](assets/profile-header.svg)
 
-**Product Designer · Interactive Prototypes · Game Systems**
+I am a **Product Designer** working across UX/UI, interactive product prototypes, and game design. I turn design ideas into experiences people can explore, from browser-based product flows to systems and playable experiments in Unreal Engine.
 
-I design digital products and bring interfaces to life through interactive prototypes. My work connects UX, visual design, design systems, and the implementation of product interactions in the browser.
+Based in **Stockholm, Sweden** · Studying **Game and Interactive Media Design at Uppsala University**
 
-Alongside product design, I explore game systems and real-time simulation in Unreal Engine. I am currently studying **Game and Interactive Media Design at Uppsala University** and am based in **Stockholm, Sweden**.
+[LinkedIn](https://www.linkedin.com/in/ardeshir-rashidi/) · [All repositories](https://github.com/Ardeshir-Rashidi?tab=repositories)
 
-[LinkedIn](https://www.linkedin.com/in/ardeshir-rashidi/) · [Browse repositories](https://github.com/Ardeshir-Rashidi?tab=repositories)
+## Game Design & Development
 
-## Explore my work
+Game systems, research, design documentation, player interfaces, and playable prototypes. Depending on the project, the output may be design files, an Unreal Engine project, or a browser-based experience.
 
-### Interactive product prototypes
+<p>
+  <a href="https://www.unrealengine.com/" title="Unreal Engine"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="48" height="48" alt="Unreal Engine"></a>
+  <a href="https://www.blender.org/" title="Blender"><img src="https://skillicons.dev/icons?i=blender&theme=dark" width="48" height="48" alt="Blender"></a>
+  <a href="https://www.maxon.net/zbrush" title="ZBrush"><img src="assets/zbrush.svg" width="48" height="48" alt="ZBrush"></a>
+</p>
 
-Front-end implementations of my product designs: user flows, responsive interfaces, design-system explorations, and interaction studies built with **HTML, CSS, and JavaScript**.
-
-This collection will grow as I publish my next prototypes. Each project will include its design context, a working preview when available, and clear notes about the prototype's scope.
-
-[Browse product prototypes](https://github.com/search?q=owner%3AArdeshir-Rashidi+topic%3Aproduct-prototype&type=repositories)
-
-### Game systems and real-time experiments
-
-Systems, simulations, and technical experiments that explore how interactive worlds behave.
-
-| Project | Focus | Tools |
-| --- | --- | --- |
-| [Niagara Ocean Simulation](https://github.com/Ardeshir-Rashidi/Unreal-Engine-5-Niagara-Ocean-Simulation) | FFT-based ocean simulation, wave controls, and real-time water rendering | Unreal Engine 5.4, Niagara, custom HLSL |
-
-[Browse game systems](https://github.com/search?q=owner%3AArdeshir-Rashidi+topic%3Agame-systems&type=repositories)
-
-## Design practice
-
-My experience spans fintech, gaming, creator tools, enterprise AI, and smart-home products. I work on complex user journeys, dashboards, role-based workflows, design systems, and multilingual RTL/LTR interfaces.
-
-| Area | Practice and tools |
+| Focus | Work and deliverables |
 | --- | --- |
-| Product and UX | Research, user flows, information architecture, prototyping, usability testing |
-| Interface and systems | Figma, FigJam, design systems, Material Design 3, RTL/LTR layouts |
-| Interactive prototypes | HTML, CSS, JavaScript |
-| Games and real-time work | Unreal Engine, Niagara, Blender |
+| **Gameplay Systems & Simulation** | Gameplay mechanics, procedural systems, real-time simulations, and technical experiments |
+| **Game Research & Design Documentation** | Player research, mechanic studies, game design documents, system specifications, and playtest findings |
+| **Game UI/UX** | HUDs, menus, interaction flows, player feedback, and interface design files |
+| **Playable Prototypes** | Playable tests and interactive demonstrations delivered through Unreal Engine or the web |
 
-## How this portfolio is organized
+**Featured project — [Niagara Ocean Simulation](https://github.com/Ardeshir-Rashidi/Unreal-Engine-5-Niagara-Ocean-Simulation)**  
+FFT-based ocean simulation, wave controls, and real-time water rendering in Unreal Engine 5.4 with Niagara and custom HLSL.
 
-Each project lives in its own repository. Topics distinguish **product prototypes** from **game systems**, while project READMEs explain the problem, my role, the implementation, and how to try the work.
+[Browse game design and development projects →](https://github.com/search?q=owner%3AArdeshir-Rashidi+topic%3Agame-design&type=repositories)
 
-[Repository conventions](docs/PORTFOLIO_GUIDE.md) · [Product prototype README template](templates/PRODUCT_PROTOTYPE_README.md) · [Game system README template](templates/GAME_SYSTEM_README.md)
+## Product Design
+
+UX/UI design and interactive prototypes for **landing pages, dashboards, and mobile applications**. Projects connect the design problem and user journey to a working interface, with Next.js, React, TypeScript, and other front-end tools used where appropriate.
+
+<p>
+  <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma"></a>
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"></a>
+</p>
+
+| Focus | Work and deliverables |
+| --- | --- |
+| **UX & Interaction Design** | Research, information architecture, user journeys, wireframes, and usability studies |
+| **UI & Design Systems** | High-fidelity interfaces, reusable components, visual systems, and responsive RTL/LTR layouts |
+| **Interactive Product Prototypes** | Landing pages, dashboards, and mobile app flows implemented as interactive front-end prototypes |
+
+My product design experience spans fintech, gaming services, creator tools, enterprise AI, and smart-home products. New public prototypes will be added here as they are ready to share.
+
+[Browse product design projects →](https://github.com/search?q=owner%3AArdeshir-Rashidi+topic%3Aproduct-design&type=repositories)
+
+**Tools & Workflow**
+
+<p>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"></a>
+</p>
+
+<sub>Each project has its own repository, category topics, and documentation describing its purpose, my role, deliverables, and setup.</sub>
+
+[Portfolio conventions](docs/PORTFOLIO_GUIDE.md) · [Game project README template](templates/GAME_PROJECT_README.md) · [Product design README template](templates/PRODUCT_DESIGN_README.md) · [Icon credits](assets/CREDITS.md)
